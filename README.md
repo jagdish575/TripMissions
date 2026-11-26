@@ -8,7 +8,7 @@ deleted — and TripMission compares every complete journey by flight, train, bu
 via **SerpApi**: costed all-in, scored, checked against the weather and local news, with what to book first, the
 way home, and a one-tap re-plan if you're running late.
 
-Demoed at **Hacktoberfest Hack Day Bhopal × Campulsy** — Hacktoberfest 2026, 24 October 2026, RICR Bhopal.
+Project entry for **ROXTEN STUDIOS' Website Building Workshop & Hackathon** — learn by building, launch a website, then submit it for evaluation.
 
 | At a glance | |
 |--|--|
@@ -263,19 +263,26 @@ live train seat availability (IRCTC partner API) · intercity bus operators · l
 trigger re-planning automatically · multi-city missions · group arrivals (several travellers from different cities
 to one venue) · Hindi UI · calendar import.
 
-## Hackathon
+## ROXTEN STUDIOS Workshop & Website Building Hackathon
 
-**Hacktoberfest Hack Day Bhopal × Campulsy** — a one-day, in-person Hack Day that is part of Hacktoberfest 2026, this year's month-long
-celebration of learning, experimenting and building with open-source AI and open-weight models.
+Join **ROXTEN STUDIOS** on **15 November** for a hands-on website-building workshop. Learn by creating and launching a website, then put your skills to the test in the Website Building Hackathon.
 
 | | |
 |--|--|
-| **Date** | 24 October 2026 |
-| **Venue** | RICR, Bhopal, Madhya Pradesh |
-| **Format** | In-person Hack Day — build, submit before the host's deadline, demo, judging |
-| **Team** | Solo |
+| **Date** | 15 November |
+| **Format** | Hands-on workshop followed by a website-building hackathon |
+| **Prizes** | ₹15,000 worth of goodies |
+| **1st place** | ₹10,000 worth of goodies |
+| **2nd place** | ₹5,000 worth of goodies |
 
-TripMission is for the people for whom a missed journey can't be undone — an exam candidate from a small town,
-a patient travelling for treatment, a first-time job seeker. **Cloudinary** reads their admit card, interview
-letter or appointment slip (OCR) and fills in the plan; the document is uploaded privately and deleted right
-after. The build journey is documented in [docs/BUILD_LOG.md](docs/BUILD_LOG.md).
+### Submission requirements
+
+- Build a functional website based on your own idea during the hackathon period following the workshop.
+- Any category is welcome. Projects should have a clear purpose, useful features and a clean UI.
+- Submit a publicly accessible live website URL, the GitHub source repository, a short project description, and creator details (name, email and team name, if applicable).
+- Submit before the announced deadline and make sure the live site and repository are accessible for review.
+- Submit only work you created or contributed to, and disclose any AI tools, templates or external libraries used. Plagiarized or copied projects may be disqualified.
+
+Projects are judged on creativity and originality, UI/UX and visual appeal, functionality and usability, technical implementation, and overall presentation and execution.
+
+**Learn it. Build it. Submit it. Win it.** TripMission is for the people for whom a missed journey can't be undone — an exam candidate from a small town, a patient travelling for treatment, or a first-time job seeker. **Cloudinary** reads their admit card, interview letter or appointment slip (OCR) and fills in the plan; the document is uploaded privately and deleted right after. The build journey is documented in [docs/BUILD_LOG.md](docs/BUILD_LOG.md).

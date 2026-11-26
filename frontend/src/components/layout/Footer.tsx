@@ -35,7 +35,7 @@ export function Footer() {
       </div>
       <div className="border-t border-white/10">
         <div className="container-page flex flex-col gap-2 py-5 text-[12.5px] text-white/45 sm:flex-row sm:justify-between">
-          <span>Hacktoberfest Hack Day Bhopal × Campulsy · 2026</span>
+          <span>ROXTEN STUDIOS Website Building Hackathon · 15 November</span>
           <span>TripMission does not book travel or guarantee arrival.</span>
         </div>
       </div>

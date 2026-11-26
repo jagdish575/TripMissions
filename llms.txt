@@ -5,7 +5,7 @@
 > plan, then deletes the image); TripMission compares every complete journey by flight, train, bus and road with
 > live Google data via SerpApi, scores it, flags what could go wrong (including weather and local disruption
 > news), says what to book first, plans the way home, and re-plans from the traveller's location if they're
-> running late. Demoed at Hacktoberfest Hack Day Bhopal × Campulsy (Hacktoberfest 2026, Bhopal).
+> running late. Project entry for ROXTEN STUDIOS' Website Building Workshop & Hackathon (15 November).
 
 Stack: Python 3.12 · FastAPI · Pydantic v2 · SQLAlchemy · SerpApi · Cloudinary (Upload API, private assets, OCR
 add-on, Destroy API) · React 19 · TypeScript · Tailwind v4 · Framer Motion. Tests: 199 backend (pytest), 24

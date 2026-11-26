@@ -1,8 +1,8 @@
 # TripMission — evaluator's guide
 
 A one-page map from what a judge looks for to where it is in the code, how to verify it, and what doesn't work
-yet. Every claim links to a file or a test. Demoed at **Hacktoberfest Hack Day Bhopal × Campulsy**
-(Hacktoberfest 2026 — 24 October 2026, RICR Bhopal).
+yet. Every claim links to a file or a test. Project entry for **ROXTEN STUDIOS' Website Building Workshop &
+Hackathon** on 15 November.
 
 ## In one paragraph
 

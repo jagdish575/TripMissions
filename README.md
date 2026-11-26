@@ -286,3 +286,8 @@ Join **ROXTEN STUDIOS** on **15 November** for a hands-on website-building works
 Projects are judged on creativity and originality, UI/UX and visual appeal, functionality and usability, technical implementation, and overall presentation and execution.
 
 **Learn it. Build it. Submit it. Win it.** TripMission is for the people for whom a missed journey can't be undone — an exam candidate from a small town, a patient travelling for treatment, or a first-time job seeker. **Cloudinary** reads their admit card, interview letter or appointment slip (OCR) and fills in the plan; the document is uploaded privately and deleted right after. The build journey is documented in [docs/BUILD_LOG.md](docs/BUILD_LOG.md).
+
+
+**visit live deployed website**
+
+https://tripmission.embarko.app/
